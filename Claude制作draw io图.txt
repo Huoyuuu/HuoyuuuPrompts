@@ -56,5 +56,13 @@ DrawIO学习教程：https://www.drawzh.com
 在线编辑器：https://app.diagrams.net/
 MXGraph语法：https://jgraph.github.io/mxgraph/docs/tutorial.html
 
+<additional_instructions>
+    * 请务必只输出mxGraphModel XML格式的代码，不要包含任何其他格式或文字描述。
+    * 确保生成的XML代码可以在draw.io网站或软件中直接导入并显示出完整的图表。
+    * 请注意图表的色彩搭配和模块的丰富性，使其具有高质量的视觉效果。
+    * 请使用中文在图表元素中添加必要的少量文字标签，以辅助理解，但要尽量控制文字数量。
+</additional_instructions>
+
+请务必只输出mxGraphModel XML格式的代码。再次强调不要使用svg、mermaid等其他格式而是使用mxGraphModel xml。
 
 根据我提供的内容，为其绘制各种色彩丰富的结构图、流程图等等以可视化展示给定内容的关键部分
