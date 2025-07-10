@@ -1,0 +1,18 @@
+把上述内容转换成latex表示，并把生成的latex代码放在txt文本框中方便我复制粘贴。使用模板\documentclass{article}
+\usepackage{amsmath}
+\usepackage[UTF8]{ctex} % 支持中文
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{geometry}
+\usepackage{tikz} % 即使不直接用tikz绘图，但为了保持完整性可以保留
+\usetikzlibrary{calc, intersections, arrows.meta}
+\usepackage{float}
+\usepackage{setspace}
+
+% 设置页面布局，尽量模拟原图的排版风格
+\geometry{a4paper, margin=1in}
+\onehalfspacing % 1.5倍行距
+\setlength{\parindent}{0em} % 段落不缩进
+\setlength{\parskip}{0.5em} % 段落之间有空隙
+
+\begin{document}
