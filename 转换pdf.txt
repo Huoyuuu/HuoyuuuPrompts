@@ -10,7 +10,7 @@
 \usepackage{setspace}
 
 % 设置页面布局，尽量模拟原图的排版风格
-\geometry{a4paper, margin=1in}
+\geometry{a4paper, margin=0.5in}
 \onehalfspacing % 1.5倍行距
 \setlength{\parindent}{0em} % 段落不缩进
 \setlength{\parskip}{0.5em} % 段落之间有空隙
