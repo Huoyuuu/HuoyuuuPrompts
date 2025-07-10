@@ -1,4 +1,5 @@
-把上述内容转换成latex表示，并把生成的latex代码放在txt文本框中方便我复制粘贴。使用模板\documentclass{article}
+把上述内容转为中文，并使用latex表示，注意把生成的latex代码放在txt文本框中方便我复制粘贴。
+使用模板\documentclass{article}
 \usepackage{amsmath}
 \usepackage[UTF8]{ctex} % 支持中文
 \usepackage{amsfonts}
