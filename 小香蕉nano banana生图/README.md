@@ -1,4 +1,5 @@
-#### 小香蕉生图prompt非原创。
+#### 小香蕉生图prompt均非原创。
 
 - 暗色手办prompt源自类脑用户Ryia
 - 亮色手办prompt源自类脑用户yuyuspace
+- ...
